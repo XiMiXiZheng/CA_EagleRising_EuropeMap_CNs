@@ -2,7 +2,7 @@
 <Module>
 	<Name value="CA_EagleRising_EuropeMap_CNs"/>
 	<Id value="CA_EagleRising_EuropeMap_CNs"/>
-	<Version value="v1.0.0"/>
+	<Version value="v3.2.7.1"/>
 	<DefaultModule value="false"/>
 	<ModuleCategory value="Singleplayer"/>
 	<ModuleType value="Community"/>
@@ -12,6 +12,7 @@
 		<DependedModule Id="Sandbox"/>
 		<DependedModule Id="CustomBattle"/>
 		<DependedModule Id="StoryMode"/>
+		<DependedModule id="Europe_LemmyProject_CNs" Optional="false"/>
 		<DependedModule Id="CA_EagleRising_EuropeMap" Optional="false"/>
 	</DependedModules>
 	<DependedModuleMetadatas>
@@ -21,6 +22,7 @@
 		<DependedModuleMetadata id="Sandbox" order="LoadBeforeThis"/>
 		<DependedModuleMetadata id="StoryMode" order="LoadBeforeThis"/>
 		<DependedModuleMetadata id="CustomBattle" order="LoadBeforeThis"/>
+		<DependedModuleMetadata id="Europe_LemmyProject_CNs" order="LoadBeforeThis"/>
 		<DependedModuleMetadata id="CA_EagleRising_EuropeMap" order="LoadBeforeThis"/>
 	</DependedModuleMetadatas>
 	<SubModules>
