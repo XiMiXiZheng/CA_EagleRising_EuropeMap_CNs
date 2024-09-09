@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35201.131
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA_EagleRising_EuropeMap_CNs", "CA_EagleRising_EuropeMap_CNs\CA_EagleRising_EuropeMap_CNs.csproj", "{B1EE6BA7-778A-4A1C-8050-D7BFF98901E7}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1EE6BA7-778A-4A1C-8050-D7BFF98901E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EE6BA7-778A-4A1C-8050-D7BFF98901E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EE6BA7-778A-4A1C-8050-D7BFF98901E7}.Debug|x64.ActiveCfg = Debug|x64
+		{B1EE6BA7-778A-4A1C-8050-D7BFF98901E7}.Debug|x64.Build.0 = Debug|x64
+		{B1EE6BA7-778A-4A1C-8050-D7BFF98901E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EE6BA7-778A-4A1C-8050-D7BFF98901E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1EE6BA7-778A-4A1C-8050-D7BFF98901E7}.Release|x64.ActiveCfg = Release|x64
+		{B1EE6BA7-778A-4A1C-8050-D7BFF98901E7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
