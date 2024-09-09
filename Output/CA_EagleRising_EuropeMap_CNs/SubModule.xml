@@ -12,7 +12,6 @@
 		<DependedModule Id="Sandbox"/>
 		<DependedModule Id="CustomBattle"/>
 		<DependedModule Id="StoryMode"/>
-		<DependedModule id="Europe_LemmyProject_CNs" Optional="false"/>
 		<DependedModule Id="CA_EagleRising_EuropeMap" Optional="false"/>
 	</DependedModules>
 	<DependedModuleMetadatas>
@@ -22,7 +21,6 @@
 		<DependedModuleMetadata id="Sandbox" order="LoadBeforeThis"/>
 		<DependedModuleMetadata id="StoryMode" order="LoadBeforeThis"/>
 		<DependedModuleMetadata id="CustomBattle" order="LoadBeforeThis"/>
-		<DependedModuleMetadata id="Europe_LemmyProject_CNs" order="LoadBeforeThis"/>
 		<DependedModuleMetadata id="CA_EagleRising_EuropeMap" order="LoadBeforeThis"/>
 	</DependedModuleMetadatas>
 	<SubModules>
